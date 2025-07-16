@@ -31,8 +31,8 @@ To deliver business intelligence insights by:
 
 ## 📊 Visualizations Included
 ![Dashboard View]
-(./ScreenShort/dashboard-3.png)
-(./ScreenShort/dashboard-4.png)
+(./Dashboard ScreenShort/dashboard-3.png)
+(./Dashboard ScreenShort/dashboard-4.png)
 ### 📍 Map: Delivery Duration by Region
 ![Dashboard Map View]
 
